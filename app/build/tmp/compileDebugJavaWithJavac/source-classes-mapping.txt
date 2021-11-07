@@ -1,0 +1,16 @@
+com/labtest1/BuildConfig.java
+ com.labtest1.BuildConfig
+com/labtest1/database/dao/DataDAO_Impl.java
+ com.labtest1.database.dao.DataDAO_Impl
+ com.labtest1.database.dao.DataDAO_Impl$1
+ com.labtest1.database.dao.DataDAO_Impl$2
+ com.labtest1.database.dao.DataDAO_Impl$3
+ com.labtest1.database.dao.DataDAO_Impl$4
+ com.labtest1.database.dao.DataDAO_Impl$5
+ com.labtest1.database.dao.DataDAO_Impl$6
+ com.labtest1.database.dao.DataDAO_Impl$7
+ com.labtest1.database.dao.DataDAO_Impl$8
+ com.labtest1.database.dao.DataDAO_Impl$9
+com/labtest1/database/AppDatabase_Impl.java
+ com.labtest1.database.AppDatabase_Impl
+ com.labtest1.database.AppDatabase_Impl$1

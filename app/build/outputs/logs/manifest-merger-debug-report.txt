@@ -1,0 +1,407 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\Tania\Desktop\Gurwinder_Singh\Advanced_Android\Final_Project\app\src\main\AndroidManifest.xml:2:1-43:12
+INJECTED from C:\Users\Tania\Desktop\Gurwinder_Singh\Advanced_Android\Final_Project\app\src\main\AndroidManifest.xml:2:1-43:12
+INJECTED from C:\Users\Tania\Desktop\Gurwinder_Singh\Advanced_Android\Final_Project\app\src\main\AndroidManifest.xml:2:1-43:12
+INJECTED from C:\Users\Tania\Desktop\Gurwinder_Singh\Advanced_Android\Final_Project\app\src\main\AndroidManifest.xml:2:1-43:12
+MERGED from [com.github.dhaval2404:imagepicker:1.8] C:\Users\Tania\.gradle\caches\transforms-2\files-2.1\392ce34d011b1657cdec8071de111ad6\jetified-imagepicker-1.8\AndroidManifest.xml:2:1-35:12
+MERGED from [androidx.navigation:navigation-fragment-ktx:2.3.3] C:\Users\Tania\.gradle\caches\transforms-2\files-2.1\62b8f0121bfb7360968ee4756a1f6665\navigation-fragment-ktx-2.3.3\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.fragment:fragment-ktx:1.2.4] C:\Users\Tania\.gradle\caches\transforms-2\files-2.1\2cbca42a78d61d3116e4d867ef71ae91\jetified-fragment-ktx-1.2.4\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.navigation:navigation-ui-ktx:2.3.3] C:\Users\Tania\.gradle\caches\transforms-2\files-2.1\e2811d9537024d070331c5a1aaf563f8\navigation-ui-ktx-2.3.3\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.navigation:navigation-runtime-ktx:2.3.3] C:\Users\Tania\.gradle\caches\transforms-2\files-2.1\4a8ee1eee64e874cf92d5b896fe9bc53\navigation-runtime-ktx-2.3.3\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.navigation:navigation-common-ktx:2.3.3] C:\Users\Tania\.gradle\caches\transforms-2\files-2.1\9fcfee1b85a7b108f74e5f24bac46ffc\navigation-common-ktx-2.3.3\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.activity:activity-ktx:1.1.0] C:\Users\Tania\.gradle\caches\transforms-2\files-2.1\7f1fa099926339feff66f056835eecc1\jetified-activity-ktx-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.core:core-ktx:1.3.2] C:\Users\Tania\.gradle\caches\transforms-2\files-2.1\2d0969fa6152c985618655273f5ba553\jetified-core-ktx-1.3.2\AndroidManifest.xml:2:1-9:12
+MERGED from [androidx.room:room-ktx:2.2.6] C:\Users\Tania\.gradle\caches\transforms-2\files-2.1\2ebade2cf34fa662b7402cf3a7b43b54\jetified-room-ktx-2.2.6\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.3.0] C:\Users\Tania\.gradle\caches\transforms-2\files-2.1\525590e86fd30a8a1dddbe2ecc802f77\jetified-lifecycle-viewmodel-ktx-2.3.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-ktx:2.3.0] C:\Users\Tania\.gradle\caches\transforms-2\files-2.1\4df42dcad0feda363bbe8b08e2418253\jetified-lifecycle-livedata-ktx-2.3.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx:2.2.0] C:\Users\Tania\.gradle\caches\transforms-2\files-2.1\dfb3f2dda61cd6a451d1ff23c5484f96\jetified-lifecycle-runtime-ktx-2.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.3.0] C:\Users\Tania\.gradle\caches\transforms-2\files-2.1\96f5cdbbd13700bb832ef73ec364fa31\jetified-lifecycle-livedata-core-ktx-2.3.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.navigation:navigation-ui:2.3.3] C:\Users\Tania\.gradle\caches\transforms-2\files-2.1\c69d014fde0dd30b95702d229833e6ed\navigation-ui-2.3.3\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.material:material:1.3.0] C:\Users\Tania\.gradle\caches\transforms-2\files-2.1\618d19832bf17639bfd1d3b1c3ebccf7\material-1.3.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.4] C:\Users\Tania\.gradle\caches\transforms-2\files-2.1\2817580fb52b01b6a3b967c0143d9134\constraintlayout-2.0.4\AndroidManifest.xml:2:1-11:12
+MERGED from [com.github.yalantis:ucrop:2.2.6] C:\Users\Tania\.gradle\caches\transforms-2\files-2.1\73a2461e82030e4b6f8c3a2715681b71\jetified-ucrop-2.2.6\AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.appcompat:appcompat:1.2.0] C:\Users\Tania\.gradle\caches\transforms-2\files-2.1\8d7de2dc3bc859c7215eda8912d27136\appcompat-1.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-extensions:2.2.0] C:\Users\Tania\.gradle\caches\transforms-2\files-2.1\25f96c36c7294adcfc5ff1447c5dd0d4\lifecycle-extensions-2.2.0\AndroidManifest.xml:17:1-27:12
+MERGED from [com.google.android.gms:play-services-maps:17.0.0] C:\Users\Tania\.gradle\caches\transforms-2\files-2.1\1f3a52ef306866287cb16fda053ada9f\jetified-play-services-maps-17.0.0\AndroidManifest.xml:17:1-38:12
+MERGED from [androidx.room:room-runtime:2.2.6] C:\Users\Tania\.gradle\caches\transforms-2\files-2.1\b8ad9e277617d292347ec3f5745f1605\room-runtime-2.2.6\AndroidManifest.xml:17:1-31:12
+MERGED from [com.google.maps.android:android-maps-utils:0.4.4] C:\Users\Tania\.gradle\caches\transforms-2\files-2.1\4d9c849f4d7c0d431b29000d8db65d7c\jetified-android-maps-utils-0.4.4\AndroidManifest.xml:2:1-13:12
+MERGED from [androidx.appcompat:appcompat-resources:1.2.0] C:\Users\Tania\.gradle\caches\transforms-2\files-2.1\866a6791e8083f045b6388af6b7adb19\jetified-appcompat-resources-1.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\Tania\.gradle\caches\transforms-2\files-2.1\18b16aa5ed02f5e0b00484bf9f1fa3d3\coordinatorlayout-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] C:\Users\Tania\.gradle\caches\transforms-2\files-2.1\1a0385a816d1f1d3f6ef0b37f3e6b2cb\dynamicanimation-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\Tania\.gradle\caches\transforms-2\files-2.1\b21ba4622a4c3ddea1d70095b459705f\vectordrawable-animated-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\Tania\.gradle\caches\transforms-2\files-2.1\099016dddd819b2b4d739e65902bcbeb\vectordrawable-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\Tania\.gradle\caches\transforms-2\files-2.1\0374e4f6c0146dad3627e6a932104d52\jetified-viewpager2-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-base:17.0.0] C:\Users\Tania\.gradle\caches\transforms-2\files-2.1\ca164ee28e446fab7dcc39d549ec249c\jetified-play-services-base-17.0.0\AndroidManifest.xml:17:1-29:12
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] C:\Users\Tania\.gradle\caches\transforms-2\files-2.1\4e5511ac30a8e5f4eaf8f5d830a894f5\jetified-play-services-tasks-17.0.0\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] C:\Users\Tania\.gradle\caches\transforms-2\files-2.1\eaad86c17299528450dae5632c8f2a49\jetified-play-services-basement-17.0.0\AndroidManifest.xml:17:1-28:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\Tania\.gradle\caches\transforms-2\files-2.1\074253efb44a5fb15a016d6ddd80a045\legacy-support-core-utils-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\Tania\.gradle\caches\transforms-2\files-2.1\4cdc4d15bd8e40fa5dedb6f3c6c1ced4\recyclerview-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.navigation:navigation-fragment:2.3.3] C:\Users\Tania\.gradle\caches\transforms-2\files-2.1\c58ea4869dee5e8497744948f566d55a\navigation-fragment-2.3.3\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.fragment:fragment:1.2.4] C:\Users\Tania\.gradle\caches\transforms-2\files-2.1\5fdfc00df57d5b628e781268855b8f21\fragment-1.2.4\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\Tania\.gradle\caches\transforms-2\files-2.1\9df30f74352a2e3710d6bf7ff2a07eb9\loader-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] C:\Users\Tania\.gradle\caches\transforms-2\files-2.1\b94b83a5d7f1d475bf66620e43058245\drawerlayout-1.1.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\Tania\.gradle\caches\transforms-2\files-2.1\0c2802306bb87693689e92aadd05386c\viewpager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.1.0] C:\Users\Tania\.gradle\caches\transforms-2\files-2.1\ce4321a1fd31ae49fa85aa036c0a7fe9\customview-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.transition:transition:1.3.0] C:\Users\Tania\.gradle\caches\transforms-2\files-2.1\bfdd671c849d7bb94e465e3745790425\transition-1.3.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.navigation:navigation-runtime:2.3.3] C:\Users\Tania\.gradle\caches\transforms-2\files-2.1\b8ac5f6ead65e32ea8a01f8620eec15c\navigation-runtime-2.3.3\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.activity:activity:1.1.0] C:\Users\Tania\.gradle\caches\transforms-2\files-2.1\b175ff3902af2f6682c5d9672d6ce9ab\jetified-activity-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.navigation:navigation-common:2.3.3] C:\Users\Tania\.gradle\caches\transforms-2\files-2.1\f5d0de84d83d998ad51333629833d731\navigation-common-2.3.3\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.core:core:1.3.2] C:\Users\Tania\.gradle\caches\transforms-2\files-2.1\3414d4f8c6d2974484da138475b51c4f\core-1.3.2\AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\Tania\.gradle\caches\transforms-2\files-2.1\9a632407174e76d252cf735e6fa5479e\cursoradapter-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\Tania\.gradle\caches\transforms-2\files-2.1\95ced69cafe6805b58e9dd0dffd59649\cardview-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.exifinterface:exifinterface:1.1.0] C:\Users\Tania\.gradle\caches\transforms-2\files-2.1\1831b97d0693213f77abeef8d1469705\exifinterface-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-process:2.2.0] C:\Users\Tania\.gradle\caches\transforms-2\files-2.1\3a8027526ad8c4c8ab81ff9bc549ce37\jetified-lifecycle-process-2.2.0\AndroidManifest.xml:17:1-32:12
+MERGED from [androidx.lifecycle:lifecycle-service:2.2.0] C:\Users\Tania\.gradle\caches\transforms-2\files-2.1\d96709ef214cff9b9fbbd0f541e6c798\jetified-lifecycle-service-2.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.2.0] C:\Users\Tania\.gradle\caches\transforms-2\files-2.1\c4b33c168b769c7215bbedfee1a435e9\lifecycle-runtime-2.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.3.0] C:\Users\Tania\.gradle\caches\transforms-2\files-2.1\d86a03215b2dd8f1c9990be3e1956005\lifecycle-livedata-2.3.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.2.0] C:\Users\Tania\.gradle\caches\transforms-2\files-2.1\c4370e0c50f1f4a32750d649409af4a7\jetified-lifecycle-viewmodel-savedstate-2.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.3.0] C:\Users\Tania\.gradle\caches\transforms-2\files-2.1\aee829ddb5faa9e910abd281f7e1821c\lifecycle-livedata-core-2.3.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.arch.core:core-runtime:2.1.0] C:\Users\Tania\.gradle\caches\transforms-2\files-2.1\67edcd56c619de0defb91fc37085cc6d\core-runtime-2.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\Tania\.gradle\caches\transforms-2\files-2.1\471922250ef12ae0d0c5a1035d583d5d\jetified-savedstate-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.sqlite:sqlite-framework:2.0.1] C:\Users\Tania\.gradle\caches\transforms-2\files-2.1\3395580c8528a963ce11bb535a239494\sqlite-framework-2.0.1\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.sqlite:sqlite:2.0.1] C:\Users\Tania\.gradle\caches\transforms-2\files-2.1\36fbeb35d555c881b43f08ceb780e514\sqlite-2.0.1\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.3.0] C:\Users\Tania\.gradle\caches\transforms-2\files-2.1\d3c8fc609cb8ba14cc825e61d4ef5e66\lifecycle-viewmodel-2.3.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\Tania\.gradle\caches\transforms-2\files-2.1\7c2cad3e78ad42de7cf077768b385948\versionedparcelable-1.1.0\AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\Tania\.gradle\caches\transforms-2\files-2.1\988785254883d0455949a354e27f4b1c\interpolator-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\Tania\.gradle\caches\transforms-2\files-2.1\6b484bc30989fc8c978987e8364cc2c3\documentfile-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\Tania\.gradle\caches\transforms-2\files-2.1\8a7d8a8e39620c81ff29a207de019f67\localbroadcastmanager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] C:\Users\Tania\.gradle\caches\transforms-2\files-2.1\d954f49754fed3a637e8aac52f5ffb7a\print-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.annotation:annotation-experimental:1.0.0] C:\Users\Tania\.gradle\caches\transforms-2\files-2.1\2d9959f3a90288d3a16c8d3481853e50\jetified-annotation-experimental-1.0.0\AndroidManifest.xml:17:1-24:12
+INJECTED from C:\Users\Tania\Desktop\Gurwinder_Singh\Advanced_Android\Final_Project\app\src\main\AndroidManifest.xml:2:1-43:12
+INJECTED from C:\Users\Tania\Desktop\Gurwinder_Singh\Advanced_Android\Final_Project\app\src\main\AndroidManifest.xml:2:1-43:12
+INJECTED from C:\Users\Tania\Desktop\Gurwinder_Singh\Advanced_Android\Final_Project\app\src\main\AndroidManifest.xml:2:1-43:12
+	package
+		ADDED from C:\Users\Tania\Desktop\Gurwinder_Singh\Advanced_Android\Final_Project\app\src\main\AndroidManifest.xml:3:5-27
+		INJECTED from C:\Users\Tania\Desktop\Gurwinder_Singh\Advanced_Android\Final_Project\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Tania\Desktop\Gurwinder_Singh\Advanced_Android\Final_Project\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\Tania\Desktop\Gurwinder_Singh\Advanced_Android\Final_Project\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Tania\Desktop\Gurwinder_Singh\Advanced_Android\Final_Project\app\src\main\AndroidManifest.xml:2:1-43:12
+		INJECTED from C:\Users\Tania\Desktop\Gurwinder_Singh\Advanced_Android\Final_Project\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\Users\Tania\Desktop\Gurwinder_Singh\Advanced_Android\Final_Project\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Tania\Desktop\Gurwinder_Singh\Advanced_Android\Final_Project\app\src\main\AndroidManifest.xml:2:1-43:12
+		INJECTED from C:\Users\Tania\Desktop\Gurwinder_Singh\Advanced_Android\Final_Project\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\Tania\Desktop\Gurwinder_Singh\Advanced_Android\Final_Project\app\src\main\AndroidManifest.xml:2:11-69
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from C:\Users\Tania\Desktop\Gurwinder_Singh\Advanced_Android\Final_Project\app\src\main\AndroidManifest.xml:9:5-79
+	android:name
+		ADDED from C:\Users\Tania\Desktop\Gurwinder_Singh\Advanced_Android\Final_Project\app\src\main\AndroidManifest.xml:9:22-76
+application
+ADDED from C:\Users\Tania\Desktop\Gurwinder_Singh\Advanced_Android\Final_Project\app\src\main\AndroidManifest.xml:11:5-41:19
+MERGED from [com.github.dhaval2404:imagepicker:1.8] C:\Users\Tania\.gradle\caches\transforms-2\files-2.1\392ce34d011b1657cdec8071de111ad6\jetified-imagepicker-1.8\AndroidManifest.xml:14:5-33:19
+MERGED from [com.github.dhaval2404:imagepicker:1.8] C:\Users\Tania\.gradle\caches\transforms-2\files-2.1\392ce34d011b1657cdec8071de111ad6\jetified-imagepicker-1.8\AndroidManifest.xml:14:5-33:19
+MERGED from [com.google.android.material:material:1.3.0] C:\Users\Tania\.gradle\caches\transforms-2\files-2.1\618d19832bf17639bfd1d3b1c3ebccf7\material-1.3.0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.material:material:1.3.0] C:\Users\Tania\.gradle\caches\transforms-2\files-2.1\618d19832bf17639bfd1d3b1c3ebccf7\material-1.3.0\AndroidManifest.xml:22:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.4] C:\Users\Tania\.gradle\caches\transforms-2\files-2.1\2817580fb52b01b6a3b967c0143d9134\constraintlayout-2.0.4\AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.4] C:\Users\Tania\.gradle\caches\transforms-2\files-2.1\2817580fb52b01b6a3b967c0143d9134\constraintlayout-2.0.4\AndroidManifest.xml:9:5-20
+MERGED from [androidx.lifecycle:lifecycle-extensions:2.2.0] C:\Users\Tania\.gradle\caches\transforms-2\files-2.1\25f96c36c7294adcfc5ff1447c5dd0d4\lifecycle-extensions-2.2.0\AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.lifecycle:lifecycle-extensions:2.2.0] C:\Users\Tania\.gradle\caches\transforms-2\files-2.1\25f96c36c7294adcfc5ff1447c5dd0d4\lifecycle-extensions-2.2.0\AndroidManifest.xml:24:5-25:19
+MERGED from [com.google.android.gms:play-services-maps:17.0.0] C:\Users\Tania\.gradle\caches\transforms-2\files-2.1\1f3a52ef306866287cb16fda053ada9f\jetified-play-services-maps-17.0.0\AndroidManifest.xml:30:5-36:19
+MERGED from [com.google.android.gms:play-services-maps:17.0.0] C:\Users\Tania\.gradle\caches\transforms-2\files-2.1\1f3a52ef306866287cb16fda053ada9f\jetified-play-services-maps-17.0.0\AndroidManifest.xml:30:5-36:19
+MERGED from [androidx.room:room-runtime:2.2.6] C:\Users\Tania\.gradle\caches\transforms-2\files-2.1\b8ad9e277617d292347ec3f5745f1605\room-runtime-2.2.6\AndroidManifest.xml:24:5-29:19
+MERGED from [androidx.room:room-runtime:2.2.6] C:\Users\Tania\.gradle\caches\transforms-2\files-2.1\b8ad9e277617d292347ec3f5745f1605\room-runtime-2.2.6\AndroidManifest.xml:24:5-29:19
+MERGED from [com.google.maps.android:android-maps-utils:0.4.4] C:\Users\Tania\.gradle\caches\transforms-2\files-2.1\4d9c849f4d7c0d431b29000d8db65d7c\jetified-android-maps-utils-0.4.4\AndroidManifest.xml:7:5-11:19
+MERGED from [com.google.maps.android:android-maps-utils:0.4.4] C:\Users\Tania\.gradle\caches\transforms-2\files-2.1\4d9c849f4d7c0d431b29000d8db65d7c\jetified-android-maps-utils-0.4.4\AndroidManifest.xml:7:5-11:19
+MERGED from [com.google.android.gms:play-services-base:17.0.0] C:\Users\Tania\.gradle\caches\transforms-2\files-2.1\ca164ee28e446fab7dcc39d549ec249c\jetified-play-services-base-17.0.0\AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-base:17.0.0] C:\Users\Tania\.gradle\caches\transforms-2\files-2.1\ca164ee28e446fab7dcc39d549ec249c\jetified-play-services-base-17.0.0\AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] C:\Users\Tania\.gradle\caches\transforms-2\files-2.1\4e5511ac30a8e5f4eaf8f5d830a894f5\jetified-play-services-tasks-17.0.0\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] C:\Users\Tania\.gradle\caches\transforms-2\files-2.1\4e5511ac30a8e5f4eaf8f5d830a894f5\jetified-play-services-tasks-17.0.0\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] C:\Users\Tania\.gradle\caches\transforms-2\files-2.1\eaad86c17299528450dae5632c8f2a49\jetified-play-services-basement-17.0.0\AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] C:\Users\Tania\.gradle\caches\transforms-2\files-2.1\eaad86c17299528450dae5632c8f2a49\jetified-play-services-basement-17.0.0\AndroidManifest.xml:22:5-26:19
+MERGED from [androidx.core:core:1.3.2] C:\Users\Tania\.gradle\caches\transforms-2\files-2.1\3414d4f8c6d2974484da138475b51c4f\core-1.3.2\AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.3.2] C:\Users\Tania\.gradle\caches\transforms-2\files-2.1\3414d4f8c6d2974484da138475b51c4f\core-1.3.2\AndroidManifest.xml:24:5-89
+MERGED from [androidx.lifecycle:lifecycle-process:2.2.0] C:\Users\Tania\.gradle\caches\transforms-2\files-2.1\3a8027526ad8c4c8ab81ff9bc549ce37\jetified-lifecycle-process-2.2.0\AndroidManifest.xml:24:5-30:19
+MERGED from [androidx.lifecycle:lifecycle-process:2.2.0] C:\Users\Tania\.gradle\caches\transforms-2\files-2.1\3a8027526ad8c4c8ab81ff9bc549ce37\jetified-lifecycle-process-2.2.0\AndroidManifest.xml:24:5-30:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\Tania\.gradle\caches\transforms-2\files-2.1\7c2cad3e78ad42de7cf077768b385948\versionedparcelable-1.1.0\AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\Tania\.gradle\caches\transforms-2\files-2.1\7c2cad3e78ad42de7cf077768b385948\versionedparcelable-1.1.0\AndroidManifest.xml:24:5-25:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.3.2] C:\Users\Tania\.gradle\caches\transforms-2\files-2.1\3414d4f8c6d2974484da138475b51c4f\core-1.3.2\AndroidManifest.xml:24:18-86
+	android:supportsRtl
+		ADDED from C:\Users\Tania\Desktop\Gurwinder_Singh\Advanced_Android\Final_Project\app\src\main\AndroidManifest.xml:16:9-35
+	android:label
+		ADDED from C:\Users\Tania\Desktop\Gurwinder_Singh\Advanced_Android\Final_Project\app\src\main\AndroidManifest.xml:14:9-41
+	android:roundIcon
+		ADDED from C:\Users\Tania\Desktop\Gurwinder_Singh\Advanced_Android\Final_Project\app\src\main\AndroidManifest.xml:15:9-54
+	android:icon
+		ADDED from C:\Users\Tania\Desktop\Gurwinder_Singh\Advanced_Android\Final_Project\app\src\main\AndroidManifest.xml:13:9-43
+	android:allowBackup
+		ADDED from C:\Users\Tania\Desktop\Gurwinder_Singh\Advanced_Android\Final_Project\app\src\main\AndroidManifest.xml:12:9-35
+	android:theme
+		ADDED from C:\Users\Tania\Desktop\Gurwinder_Singh\Advanced_Android\Final_Project\app\src\main\AndroidManifest.xml:17:9-46
+activity#com.labtest1.FinalAssignmentMainActivity
+ADDED from C:\Users\Tania\Desktop\Gurwinder_Singh\Advanced_Android\Final_Project\app\src\main\AndroidManifest.xml:19:9-28:20
+	android:label
+		ADDED from C:\Users\Tania\Desktop\Gurwinder_Singh\Advanced_Android\Final_Project\app\src\main\AndroidManifest.xml:21:13-73
+	android:theme
+		ADDED from C:\Users\Tania\Desktop\Gurwinder_Singh\Advanced_Android\Final_Project\app\src\main\AndroidManifest.xml:22:13-62
+	android:name
+		ADDED from C:\Users\Tania\Desktop\Gurwinder_Singh\Advanced_Android\Final_Project\app\src\main\AndroidManifest.xml:20:13-56
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\Tania\Desktop\Gurwinder_Singh\Advanced_Android\Final_Project\app\src\main\AndroidManifest.xml:23:13-27:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\Tania\Desktop\Gurwinder_Singh\Advanced_Android\Final_Project\app\src\main\AndroidManifest.xml:24:17-69
+	android:name
+		ADDED from C:\Users\Tania\Desktop\Gurwinder_Singh\Advanced_Android\Final_Project\app\src\main\AndroidManifest.xml:24:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\Tania\Desktop\Gurwinder_Singh\Advanced_Android\Final_Project\app\src\main\AndroidManifest.xml:26:17-77
+	android:name
+		ADDED from C:\Users\Tania\Desktop\Gurwinder_Singh\Advanced_Android\Final_Project\app\src\main\AndroidManifest.xml:26:27-74
+meta-data#com.google.android.geo.API_KEY
+ADDED from C:\Users\Tania\Desktop\Gurwinder_Singh\Advanced_Android\Final_Project\app\src\main\AndroidManifest.xml:30:9-32:55
+	android:value
+		ADDED from C:\Users\Tania\Desktop\Gurwinder_Singh\Advanced_Android\Final_Project\app\src\main\AndroidManifest.xml:32:13-52
+	android:name
+		ADDED from C:\Users\Tania\Desktop\Gurwinder_Singh\Advanced_Android\Final_Project\app\src\main\AndroidManifest.xml:31:13-58
+activity#com.labtest1.CountrySelectionActivity
+ADDED from C:\Users\Tania\Desktop\Gurwinder_Singh\Advanced_Android\Final_Project\app\src\main\AndroidManifest.xml:34:9-37:52
+	android:screenOrientation
+		ADDED from C:\Users\Tania\Desktop\Gurwinder_Singh\Advanced_Android\Final_Project\app\src\main\AndroidManifest.xml:37:13-49
+	android:label
+		ADDED from C:\Users\Tania\Desktop\Gurwinder_Singh\Advanced_Android\Final_Project\app\src\main\AndroidManifest.xml:36:13-43
+	android:name
+		ADDED from C:\Users\Tania\Desktop\Gurwinder_Singh\Advanced_Android\Final_Project\app\src\main\AndroidManifest.xml:35:13-53
+activity#com.labtest1.EditPageActivity
+ADDED from C:\Users\Tania\Desktop\Gurwinder_Singh\Advanced_Android\Final_Project\app\src\main\AndroidManifest.xml:38:9-40:52
+	android:screenOrientation
+		ADDED from C:\Users\Tania\Desktop\Gurwinder_Singh\Advanced_Android\Final_Project\app\src\main\AndroidManifest.xml:40:13-49
+	android:name
+		ADDED from C:\Users\Tania\Desktop\Gurwinder_Singh\Advanced_Android\Final_Project\app\src\main\AndroidManifest.xml:39:13-45
+uses-sdk
+INJECTED from C:\Users\Tania\Desktop\Gurwinder_Singh\Advanced_Android\Final_Project\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\Tania\Desktop\Gurwinder_Singh\Advanced_Android\Final_Project\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Tania\Desktop\Gurwinder_Singh\Advanced_Android\Final_Project\app\src\main\AndroidManifest.xml
+MERGED from [com.github.dhaval2404:imagepicker:1.8] C:\Users\Tania\.gradle\caches\transforms-2\files-2.1\392ce34d011b1657cdec8071de111ad6\jetified-imagepicker-1.8\AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.dhaval2404:imagepicker:1.8] C:\Users\Tania\.gradle\caches\transforms-2\files-2.1\392ce34d011b1657cdec8071de111ad6\jetified-imagepicker-1.8\AndroidManifest.xml:7:5-9:41
+MERGED from [androidx.navigation:navigation-fragment-ktx:2.3.3] C:\Users\Tania\.gradle\caches\transforms-2\files-2.1\62b8f0121bfb7360968ee4756a1f6665\navigation-fragment-ktx-2.3.3\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-fragment-ktx:2.3.3] C:\Users\Tania\.gradle\caches\transforms-2\files-2.1\62b8f0121bfb7360968ee4756a1f6665\navigation-fragment-ktx-2.3.3\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment-ktx:1.2.4] C:\Users\Tania\.gradle\caches\transforms-2\files-2.1\2cbca42a78d61d3116e4d867ef71ae91\jetified-fragment-ktx-1.2.4\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment-ktx:1.2.4] C:\Users\Tania\.gradle\caches\transforms-2\files-2.1\2cbca42a78d61d3116e4d867ef71ae91\jetified-fragment-ktx-1.2.4\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-ui-ktx:2.3.3] C:\Users\Tania\.gradle\caches\transforms-2\files-2.1\e2811d9537024d070331c5a1aaf563f8\navigation-ui-ktx-2.3.3\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-ui-ktx:2.3.3] C:\Users\Tania\.gradle\caches\transforms-2\files-2.1\e2811d9537024d070331c5a1aaf563f8\navigation-ui-ktx-2.3.3\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-runtime-ktx:2.3.3] C:\Users\Tania\.gradle\caches\transforms-2\files-2.1\4a8ee1eee64e874cf92d5b896fe9bc53\navigation-runtime-ktx-2.3.3\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-runtime-ktx:2.3.3] C:\Users\Tania\.gradle\caches\transforms-2\files-2.1\4a8ee1eee64e874cf92d5b896fe9bc53\navigation-runtime-ktx-2.3.3\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-common-ktx:2.3.3] C:\Users\Tania\.gradle\caches\transforms-2\files-2.1\9fcfee1b85a7b108f74e5f24bac46ffc\navigation-common-ktx-2.3.3\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-common-ktx:2.3.3] C:\Users\Tania\.gradle\caches\transforms-2\files-2.1\9fcfee1b85a7b108f74e5f24bac46ffc\navigation-common-ktx-2.3.3\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity-ktx:1.1.0] C:\Users\Tania\.gradle\caches\transforms-2\files-2.1\7f1fa099926339feff66f056835eecc1\jetified-activity-ktx-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity-ktx:1.1.0] C:\Users\Tania\.gradle\caches\transforms-2\files-2.1\7f1fa099926339feff66f056835eecc1\jetified-activity-ktx-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core-ktx:1.3.2] C:\Users\Tania\.gradle\caches\transforms-2\files-2.1\2d0969fa6152c985618655273f5ba553\jetified-core-ktx-1.3.2\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.core:core-ktx:1.3.2] C:\Users\Tania\.gradle\caches\transforms-2\files-2.1\2d0969fa6152c985618655273f5ba553\jetified-core-ktx-1.3.2\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.room:room-ktx:2.2.6] C:\Users\Tania\.gradle\caches\transforms-2\files-2.1\2ebade2cf34fa662b7402cf3a7b43b54\jetified-room-ktx-2.2.6\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.room:room-ktx:2.2.6] C:\Users\Tania\.gradle\caches\transforms-2\files-2.1\2ebade2cf34fa662b7402cf3a7b43b54\jetified-room-ktx-2.2.6\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.3.0] C:\Users\Tania\.gradle\caches\transforms-2\files-2.1\525590e86fd30a8a1dddbe2ecc802f77\jetified-lifecycle-viewmodel-ktx-2.3.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.3.0] C:\Users\Tania\.gradle\caches\transforms-2\files-2.1\525590e86fd30a8a1dddbe2ecc802f77\jetified-lifecycle-viewmodel-ktx-2.3.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-ktx:2.3.0] C:\Users\Tania\.gradle\caches\transforms-2\files-2.1\4df42dcad0feda363bbe8b08e2418253\jetified-lifecycle-livedata-ktx-2.3.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-ktx:2.3.0] C:\Users\Tania\.gradle\caches\transforms-2\files-2.1\4df42dcad0feda363bbe8b08e2418253\jetified-lifecycle-livedata-ktx-2.3.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx:2.2.0] C:\Users\Tania\.gradle\caches\transforms-2\files-2.1\dfb3f2dda61cd6a451d1ff23c5484f96\jetified-lifecycle-runtime-ktx-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx:2.2.0] C:\Users\Tania\.gradle\caches\transforms-2\files-2.1\dfb3f2dda61cd6a451d1ff23c5484f96\jetified-lifecycle-runtime-ktx-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.3.0] C:\Users\Tania\.gradle\caches\transforms-2\files-2.1\96f5cdbbd13700bb832ef73ec364fa31\jetified-lifecycle-livedata-core-ktx-2.3.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.3.0] C:\Users\Tania\.gradle\caches\transforms-2\files-2.1\96f5cdbbd13700bb832ef73ec364fa31\jetified-lifecycle-livedata-core-ktx-2.3.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-ui:2.3.3] C:\Users\Tania\.gradle\caches\transforms-2\files-2.1\c69d014fde0dd30b95702d229833e6ed\navigation-ui-2.3.3\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-ui:2.3.3] C:\Users\Tania\.gradle\caches\transforms-2\files-2.1\c69d014fde0dd30b95702d229833e6ed\navigation-ui-2.3.3\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.material:material:1.3.0] C:\Users\Tania\.gradle\caches\transforms-2\files-2.1\618d19832bf17639bfd1d3b1c3ebccf7\material-1.3.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.3.0] C:\Users\Tania\.gradle\caches\transforms-2\files-2.1\618d19832bf17639bfd1d3b1c3ebccf7\material-1.3.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.4] C:\Users\Tania\.gradle\caches\transforms-2\files-2.1\2817580fb52b01b6a3b967c0143d9134\constraintlayout-2.0.4\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.4] C:\Users\Tania\.gradle\caches\transforms-2\files-2.1\2817580fb52b01b6a3b967c0143d9134\constraintlayout-2.0.4\AndroidManifest.xml:5:5-7:41
+MERGED from [com.github.yalantis:ucrop:2.2.6] C:\Users\Tania\.gradle\caches\transforms-2\files-2.1\73a2461e82030e4b6f8c3a2715681b71\jetified-ucrop-2.2.6\AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.yalantis:ucrop:2.2.6] C:\Users\Tania\.gradle\caches\transforms-2\files-2.1\73a2461e82030e4b6f8c3a2715681b71\jetified-ucrop-2.2.6\AndroidManifest.xml:7:5-9:41
+MERGED from [androidx.appcompat:appcompat:1.2.0] C:\Users\Tania\.gradle\caches\transforms-2\files-2.1\8d7de2dc3bc859c7215eda8912d27136\appcompat-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat:1.2.0] C:\Users\Tania\.gradle\caches\transforms-2\files-2.1\8d7de2dc3bc859c7215eda8912d27136\appcompat-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-extensions:2.2.0] C:\Users\Tania\.gradle\caches\transforms-2\files-2.1\25f96c36c7294adcfc5ff1447c5dd0d4\lifecycle-extensions-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-extensions:2.2.0] C:\Users\Tania\.gradle\caches\transforms-2\files-2.1\25f96c36c7294adcfc5ff1447c5dd0d4\lifecycle-extensions-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.gms:play-services-maps:17.0.0] C:\Users\Tania\.gradle\caches\transforms-2\files-2.1\1f3a52ef306866287cb16fda053ada9f\jetified-play-services-maps-17.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-maps:17.0.0] C:\Users\Tania\.gradle\caches\transforms-2\files-2.1\1f3a52ef306866287cb16fda053ada9f\jetified-play-services-maps-17.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.room:room-runtime:2.2.6] C:\Users\Tania\.gradle\caches\transforms-2\files-2.1\b8ad9e277617d292347ec3f5745f1605\room-runtime-2.2.6\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.room:room-runtime:2.2.6] C:\Users\Tania\.gradle\caches\transforms-2\files-2.1\b8ad9e277617d292347ec3f5745f1605\room-runtime-2.2.6\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.maps.android:android-maps-utils:0.4.4] C:\Users\Tania\.gradle\caches\transforms-2\files-2.1\4d9c849f4d7c0d431b29000d8db65d7c\jetified-android-maps-utils-0.4.4\AndroidManifest.xml:5:5-43
+MERGED from [com.google.maps.android:android-maps-utils:0.4.4] C:\Users\Tania\.gradle\caches\transforms-2\files-2.1\4d9c849f4d7c0d431b29000d8db65d7c\jetified-android-maps-utils-0.4.4\AndroidManifest.xml:5:5-43
+MERGED from [androidx.appcompat:appcompat-resources:1.2.0] C:\Users\Tania\.gradle\caches\transforms-2\files-2.1\866a6791e8083f045b6388af6b7adb19\jetified-appcompat-resources-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.2.0] C:\Users\Tania\.gradle\caches\transforms-2\files-2.1\866a6791e8083f045b6388af6b7adb19\jetified-appcompat-resources-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\Tania\.gradle\caches\transforms-2\files-2.1\18b16aa5ed02f5e0b00484bf9f1fa3d3\coordinatorlayout-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\Tania\.gradle\caches\transforms-2\files-2.1\18b16aa5ed02f5e0b00484bf9f1fa3d3\coordinatorlayout-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] C:\Users\Tania\.gradle\caches\transforms-2\files-2.1\1a0385a816d1f1d3f6ef0b37f3e6b2cb\dynamicanimation-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] C:\Users\Tania\.gradle\caches\transforms-2\files-2.1\1a0385a816d1f1d3f6ef0b37f3e6b2cb\dynamicanimation-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\Tania\.gradle\caches\transforms-2\files-2.1\b21ba4622a4c3ddea1d70095b459705f\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\Tania\.gradle\caches\transforms-2\files-2.1\b21ba4622a4c3ddea1d70095b459705f\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\Tania\.gradle\caches\transforms-2\files-2.1\099016dddd819b2b4d739e65902bcbeb\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\Tania\.gradle\caches\transforms-2\files-2.1\099016dddd819b2b4d739e65902bcbeb\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\Tania\.gradle\caches\transforms-2\files-2.1\0374e4f6c0146dad3627e6a932104d52\jetified-viewpager2-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\Tania\.gradle\caches\transforms-2\files-2.1\0374e4f6c0146dad3627e6a932104d52\jetified-viewpager2-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.gms:play-services-base:17.0.0] C:\Users\Tania\.gradle\caches\transforms-2\files-2.1\ca164ee28e446fab7dcc39d549ec249c\jetified-play-services-base-17.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:17.0.0] C:\Users\Tania\.gradle\caches\transforms-2\files-2.1\ca164ee28e446fab7dcc39d549ec249c\jetified-play-services-base-17.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] C:\Users\Tania\.gradle\caches\transforms-2\files-2.1\4e5511ac30a8e5f4eaf8f5d830a894f5\jetified-play-services-tasks-17.0.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] C:\Users\Tania\.gradle\caches\transforms-2\files-2.1\4e5511ac30a8e5f4eaf8f5d830a894f5\jetified-play-services-tasks-17.0.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] C:\Users\Tania\.gradle\caches\transforms-2\files-2.1\eaad86c17299528450dae5632c8f2a49\jetified-play-services-basement-17.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] C:\Users\Tania\.gradle\caches\transforms-2\files-2.1\eaad86c17299528450dae5632c8f2a49\jetified-play-services-basement-17.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\Tania\.gradle\caches\transforms-2\files-2.1\074253efb44a5fb15a016d6ddd80a045\legacy-support-core-utils-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\Tania\.gradle\caches\transforms-2\files-2.1\074253efb44a5fb15a016d6ddd80a045\legacy-support-core-utils-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\Tania\.gradle\caches\transforms-2\files-2.1\4cdc4d15bd8e40fa5dedb6f3c6c1ced4\recyclerview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\Tania\.gradle\caches\transforms-2\files-2.1\4cdc4d15bd8e40fa5dedb6f3c6c1ced4\recyclerview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-fragment:2.3.3] C:\Users\Tania\.gradle\caches\transforms-2\files-2.1\c58ea4869dee5e8497744948f566d55a\navigation-fragment-2.3.3\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-fragment:2.3.3] C:\Users\Tania\.gradle\caches\transforms-2\files-2.1\c58ea4869dee5e8497744948f566d55a\navigation-fragment-2.3.3\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.2.4] C:\Users\Tania\.gradle\caches\transforms-2\files-2.1\5fdfc00df57d5b628e781268855b8f21\fragment-1.2.4\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.2.4] C:\Users\Tania\.gradle\caches\transforms-2\files-2.1\5fdfc00df57d5b628e781268855b8f21\fragment-1.2.4\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\Tania\.gradle\caches\transforms-2\files-2.1\9df30f74352a2e3710d6bf7ff2a07eb9\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\Tania\.gradle\caches\transforms-2\files-2.1\9df30f74352a2e3710d6bf7ff2a07eb9\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] C:\Users\Tania\.gradle\caches\transforms-2\files-2.1\b94b83a5d7f1d475bf66620e43058245\drawerlayout-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] C:\Users\Tania\.gradle\caches\transforms-2\files-2.1\b94b83a5d7f1d475bf66620e43058245\drawerlayout-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\Tania\.gradle\caches\transforms-2\files-2.1\0c2802306bb87693689e92aadd05386c\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\Tania\.gradle\caches\transforms-2\files-2.1\0c2802306bb87693689e92aadd05386c\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.1.0] C:\Users\Tania\.gradle\caches\transforms-2\files-2.1\ce4321a1fd31ae49fa85aa036c0a7fe9\customview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.1.0] C:\Users\Tania\.gradle\caches\transforms-2\files-2.1\ce4321a1fd31ae49fa85aa036c0a7fe9\customview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.3.0] C:\Users\Tania\.gradle\caches\transforms-2\files-2.1\bfdd671c849d7bb94e465e3745790425\transition-1.3.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.3.0] C:\Users\Tania\.gradle\caches\transforms-2\files-2.1\bfdd671c849d7bb94e465e3745790425\transition-1.3.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-runtime:2.3.3] C:\Users\Tania\.gradle\caches\transforms-2\files-2.1\b8ac5f6ead65e32ea8a01f8620eec15c\navigation-runtime-2.3.3\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-runtime:2.3.3] C:\Users\Tania\.gradle\caches\transforms-2\files-2.1\b8ac5f6ead65e32ea8a01f8620eec15c\navigation-runtime-2.3.3\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.1.0] C:\Users\Tania\.gradle\caches\transforms-2\files-2.1\b175ff3902af2f6682c5d9672d6ce9ab\jetified-activity-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.1.0] C:\Users\Tania\.gradle\caches\transforms-2\files-2.1\b175ff3902af2f6682c5d9672d6ce9ab\jetified-activity-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-common:2.3.3] C:\Users\Tania\.gradle\caches\transforms-2\files-2.1\f5d0de84d83d998ad51333629833d731\navigation-common-2.3.3\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-common:2.3.3] C:\Users\Tania\.gradle\caches\transforms-2\files-2.1\f5d0de84d83d998ad51333629833d731\navigation-common-2.3.3\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.3.2] C:\Users\Tania\.gradle\caches\transforms-2\files-2.1\3414d4f8c6d2974484da138475b51c4f\core-1.3.2\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.3.2] C:\Users\Tania\.gradle\caches\transforms-2\files-2.1\3414d4f8c6d2974484da138475b51c4f\core-1.3.2\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\Tania\.gradle\caches\transforms-2\files-2.1\9a632407174e76d252cf735e6fa5479e\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\Tania\.gradle\caches\transforms-2\files-2.1\9a632407174e76d252cf735e6fa5479e\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\Tania\.gradle\caches\transforms-2\files-2.1\95ced69cafe6805b58e9dd0dffd59649\cardview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\Tania\.gradle\caches\transforms-2\files-2.1\95ced69cafe6805b58e9dd0dffd59649\cardview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.exifinterface:exifinterface:1.1.0] C:\Users\Tania\.gradle\caches\transforms-2\files-2.1\1831b97d0693213f77abeef8d1469705\exifinterface-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.exifinterface:exifinterface:1.1.0] C:\Users\Tania\.gradle\caches\transforms-2\files-2.1\1831b97d0693213f77abeef8d1469705\exifinterface-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-process:2.2.0] C:\Users\Tania\.gradle\caches\transforms-2\files-2.1\3a8027526ad8c4c8ab81ff9bc549ce37\jetified-lifecycle-process-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-process:2.2.0] C:\Users\Tania\.gradle\caches\transforms-2\files-2.1\3a8027526ad8c4c8ab81ff9bc549ce37\jetified-lifecycle-process-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-service:2.2.0] C:\Users\Tania\.gradle\caches\transforms-2\files-2.1\d96709ef214cff9b9fbbd0f541e6c798\jetified-lifecycle-service-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-service:2.2.0] C:\Users\Tania\.gradle\caches\transforms-2\files-2.1\d96709ef214cff9b9fbbd0f541e6c798\jetified-lifecycle-service-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.2.0] C:\Users\Tania\.gradle\caches\transforms-2\files-2.1\c4b33c168b769c7215bbedfee1a435e9\lifecycle-runtime-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.2.0] C:\Users\Tania\.gradle\caches\transforms-2\files-2.1\c4b33c168b769c7215bbedfee1a435e9\lifecycle-runtime-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.3.0] C:\Users\Tania\.gradle\caches\transforms-2\files-2.1\d86a03215b2dd8f1c9990be3e1956005\lifecycle-livedata-2.3.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.3.0] C:\Users\Tania\.gradle\caches\transforms-2\files-2.1\d86a03215b2dd8f1c9990be3e1956005\lifecycle-livedata-2.3.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.2.0] C:\Users\Tania\.gradle\caches\transforms-2\files-2.1\c4370e0c50f1f4a32750d649409af4a7\jetified-lifecycle-viewmodel-savedstate-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.2.0] C:\Users\Tania\.gradle\caches\transforms-2\files-2.1\c4370e0c50f1f4a32750d649409af4a7\jetified-lifecycle-viewmodel-savedstate-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.3.0] C:\Users\Tania\.gradle\caches\transforms-2\files-2.1\aee829ddb5faa9e910abd281f7e1821c\lifecycle-livedata-core-2.3.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.3.0] C:\Users\Tania\.gradle\caches\transforms-2\files-2.1\aee829ddb5faa9e910abd281f7e1821c\lifecycle-livedata-core-2.3.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] C:\Users\Tania\.gradle\caches\transforms-2\files-2.1\67edcd56c619de0defb91fc37085cc6d\core-runtime-2.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] C:\Users\Tania\.gradle\caches\transforms-2\files-2.1\67edcd56c619de0defb91fc37085cc6d\core-runtime-2.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\Tania\.gradle\caches\transforms-2\files-2.1\471922250ef12ae0d0c5a1035d583d5d\jetified-savedstate-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\Tania\.gradle\caches\transforms-2\files-2.1\471922250ef12ae0d0c5a1035d583d5d\jetified-savedstate-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.sqlite:sqlite-framework:2.0.1] C:\Users\Tania\.gradle\caches\transforms-2\files-2.1\3395580c8528a963ce11bb535a239494\sqlite-framework-2.0.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.sqlite:sqlite-framework:2.0.1] C:\Users\Tania\.gradle\caches\transforms-2\files-2.1\3395580c8528a963ce11bb535a239494\sqlite-framework-2.0.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.sqlite:sqlite:2.0.1] C:\Users\Tania\.gradle\caches\transforms-2\files-2.1\36fbeb35d555c881b43f08ceb780e514\sqlite-2.0.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.sqlite:sqlite:2.0.1] C:\Users\Tania\.gradle\caches\transforms-2\files-2.1\36fbeb35d555c881b43f08ceb780e514\sqlite-2.0.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.3.0] C:\Users\Tania\.gradle\caches\transforms-2\files-2.1\d3c8fc609cb8ba14cc825e61d4ef5e66\lifecycle-viewmodel-2.3.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.3.0] C:\Users\Tania\.gradle\caches\transforms-2\files-2.1\d3c8fc609cb8ba14cc825e61d4ef5e66\lifecycle-viewmodel-2.3.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\Tania\.gradle\caches\transforms-2\files-2.1\7c2cad3e78ad42de7cf077768b385948\versionedparcelable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\Tania\.gradle\caches\transforms-2\files-2.1\7c2cad3e78ad42de7cf077768b385948\versionedparcelable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\Tania\.gradle\caches\transforms-2\files-2.1\988785254883d0455949a354e27f4b1c\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\Tania\.gradle\caches\transforms-2\files-2.1\988785254883d0455949a354e27f4b1c\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\Tania\.gradle\caches\transforms-2\files-2.1\6b484bc30989fc8c978987e8364cc2c3\documentfile-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\Tania\.gradle\caches\transforms-2\files-2.1\6b484bc30989fc8c978987e8364cc2c3\documentfile-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\Tania\.gradle\caches\transforms-2\files-2.1\8a7d8a8e39620c81ff29a207de019f67\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\Tania\.gradle\caches\transforms-2\files-2.1\8a7d8a8e39620c81ff29a207de019f67\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\Tania\.gradle\caches\transforms-2\files-2.1\d954f49754fed3a637e8aac52f5ffb7a\print-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\Tania\.gradle\caches\transforms-2\files-2.1\d954f49754fed3a637e8aac52f5ffb7a\print-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.0.0] C:\Users\Tania\.gradle\caches\transforms-2\files-2.1\2d9959f3a90288d3a16c8d3481853e50\jetified-annotation-experimental-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.annotation:annotation-experimental:1.0.0] C:\Users\Tania\.gradle\caches\transforms-2\files-2.1\2d9959f3a90288d3a16c8d3481853e50\jetified-annotation-experimental-1.0.0\AndroidManifest.xml:20:5-22:41
+INJECTED from C:\Users\Tania\Desktop\Gurwinder_Singh\Advanced_Android\Final_Project\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Tania\Desktop\Gurwinder_Singh\Advanced_Android\Final_Project\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\Tania\Desktop\Gurwinder_Singh\Advanced_Android\Final_Project\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Tania\Desktop\Gurwinder_Singh\Advanced_Android\Final_Project\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Tania\Desktop\Gurwinder_Singh\Advanced_Android\Final_Project\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\Tania\Desktop\Gurwinder_Singh\Advanced_Android\Final_Project\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Tania\Desktop\Gurwinder_Singh\Advanced_Android\Final_Project\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Tania\Desktop\Gurwinder_Singh\Advanced_Android\Final_Project\app\src\main\AndroidManifest.xml
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from [com.github.dhaval2404:imagepicker:1.8] C:\Users\Tania\.gradle\caches\transforms-2\files-2.1\392ce34d011b1657cdec8071de111ad6\jetified-imagepicker-1.8\AndroidManifest.xml:11:5-80
+	android:name
+		ADDED from [com.github.dhaval2404:imagepicker:1.8] C:\Users\Tania\.gradle\caches\transforms-2\files-2.1\392ce34d011b1657cdec8071de111ad6\jetified-imagepicker-1.8\AndroidManifest.xml:11:22-77
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from [com.github.dhaval2404:imagepicker:1.8] C:\Users\Tania\.gradle\caches\transforms-2\files-2.1\392ce34d011b1657cdec8071de111ad6\jetified-imagepicker-1.8\AndroidManifest.xml:12:5-81
+	android:name
+		ADDED from [com.github.dhaval2404:imagepicker:1.8] C:\Users\Tania\.gradle\caches\transforms-2\files-2.1\392ce34d011b1657cdec8071de111ad6\jetified-imagepicker-1.8\AndroidManifest.xml:12:22-78
+activity#com.github.dhaval2404.imagepicker.ImagePickerActivity
+ADDED from [com.github.dhaval2404:imagepicker:1.8] C:\Users\Tania\.gradle\caches\transforms-2\files-2.1\392ce34d011b1657cdec8071de111ad6\jetified-imagepicker-1.8\AndroidManifest.xml:15:9-18:68
+	android:screenOrientation
+		ADDED from [com.github.dhaval2404:imagepicker:1.8] C:\Users\Tania\.gradle\caches\transforms-2\files-2.1\392ce34d011b1657cdec8071de111ad6\jetified-imagepicker-1.8\AndroidManifest.xml:17:13-52
+	android:theme
+		ADDED from [com.github.dhaval2404:imagepicker:1.8] C:\Users\Tania\.gradle\caches\transforms-2\files-2.1\392ce34d011b1657cdec8071de111ad6\jetified-imagepicker-1.8\AndroidManifest.xml:18:13-65
+	android:name
+		ADDED from [com.github.dhaval2404:imagepicker:1.8] C:\Users\Tania\.gradle\caches\transforms-2\files-2.1\392ce34d011b1657cdec8071de111ad6\jetified-imagepicker-1.8\AndroidManifest.xml:16:13-81
+activity#com.yalantis.ucrop.UCropActivity
+ADDED from [com.github.dhaval2404:imagepicker:1.8] C:\Users\Tania\.gradle\caches\transforms-2\files-2.1\392ce34d011b1657cdec8071de111ad6\jetified-imagepicker-1.8\AndroidManifest.xml:19:9-22:72
+	android:screenOrientation
+		ADDED from [com.github.dhaval2404:imagepicker:1.8] C:\Users\Tania\.gradle\caches\transforms-2\files-2.1\392ce34d011b1657cdec8071de111ad6\jetified-imagepicker-1.8\AndroidManifest.xml:21:13-49
+	android:theme
+		ADDED from [com.github.dhaval2404:imagepicker:1.8] C:\Users\Tania\.gradle\caches\transforms-2\files-2.1\392ce34d011b1657cdec8071de111ad6\jetified-imagepicker-1.8\AndroidManifest.xml:22:13-69
+	android:name
+		ADDED from [com.github.dhaval2404:imagepicker:1.8] C:\Users\Tania\.gradle\caches\transforms-2\files-2.1\392ce34d011b1657cdec8071de111ad6\jetified-imagepicker-1.8\AndroidManifest.xml:20:13-60
+provider#com.github.dhaval2404.imagepicker.ImagePickerFileProvider
+ADDED from [com.github.dhaval2404:imagepicker:1.8] C:\Users\Tania\.gradle\caches\transforms-2\files-2.1\392ce34d011b1657cdec8071de111ad6\jetified-imagepicker-1.8\AndroidManifest.xml:24:9-32:20
+	android:grantUriPermissions
+		ADDED from [com.github.dhaval2404:imagepicker:1.8] C:\Users\Tania\.gradle\caches\transforms-2\files-2.1\392ce34d011b1657cdec8071de111ad6\jetified-imagepicker-1.8\AndroidManifest.xml:28:13-47
+	android:authorities
+		ADDED from [com.github.dhaval2404:imagepicker:1.8] C:\Users\Tania\.gradle\caches\transforms-2\files-2.1\392ce34d011b1657cdec8071de111ad6\jetified-imagepicker-1.8\AndroidManifest.xml:26:13-72
+	android:exported
+		ADDED from [com.github.dhaval2404:imagepicker:1.8] C:\Users\Tania\.gradle\caches\transforms-2\files-2.1\392ce34d011b1657cdec8071de111ad6\jetified-imagepicker-1.8\AndroidManifest.xml:27:13-37
+	android:name
+		ADDED from [com.github.dhaval2404:imagepicker:1.8] C:\Users\Tania\.gradle\caches\transforms-2\files-2.1\392ce34d011b1657cdec8071de111ad6\jetified-imagepicker-1.8\AndroidManifest.xml:25:13-85
+meta-data#android.support.FILE_PROVIDER_PATHS
+ADDED from [com.github.dhaval2404:imagepicker:1.8] C:\Users\Tania\.gradle\caches\transforms-2\files-2.1\392ce34d011b1657cdec8071de111ad6\jetified-imagepicker-1.8\AndroidManifest.xml:29:13-31:71
+	android:resource
+		ADDED from [com.github.dhaval2404:imagepicker:1.8] C:\Users\Tania\.gradle\caches\transforms-2\files-2.1\392ce34d011b1657cdec8071de111ad6\jetified-imagepicker-1.8\AndroidManifest.xml:31:17-68
+	android:name
+		ADDED from [com.github.dhaval2404:imagepicker:1.8] C:\Users\Tania\.gradle\caches\transforms-2\files-2.1\392ce34d011b1657cdec8071de111ad6\jetified-imagepicker-1.8\AndroidManifest.xml:30:17-67
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from [com.google.android.gms:play-services-maps:17.0.0] C:\Users\Tania\.gradle\caches\transforms-2\files-2.1\1f3a52ef306866287cb16fda053ada9f\jetified-play-services-maps-17.0.0\AndroidManifest.xml:23:5-79
+	android:name
+		ADDED from [com.google.android.gms:play-services-maps:17.0.0] C:\Users\Tania\.gradle\caches\transforms-2\files-2.1\1f3a52ef306866287cb16fda053ada9f\jetified-play-services-maps-17.0.0\AndroidManifest.xml:23:22-76
+uses-permission#android.permission.INTERNET
+ADDED from [com.google.android.gms:play-services-maps:17.0.0] C:\Users\Tania\.gradle\caches\transforms-2\files-2.1\1f3a52ef306866287cb16fda053ada9f\jetified-play-services-maps-17.0.0\AndroidManifest.xml:24:5-67
+	android:name
+		ADDED from [com.google.android.gms:play-services-maps:17.0.0] C:\Users\Tania\.gradle\caches\transforms-2\files-2.1\1f3a52ef306866287cb16fda053ada9f\jetified-play-services-maps-17.0.0\AndroidManifest.xml:24:22-64
+uses-feature#0x00020000
+ADDED from [com.google.android.gms:play-services-maps:17.0.0] C:\Users\Tania\.gradle\caches\transforms-2\files-2.1\1f3a52ef306866287cb16fda053ada9f\jetified-play-services-maps-17.0.0\AndroidManifest.xml:26:5-28:35
+	android:glEsVersion
+		ADDED from [com.google.android.gms:play-services-maps:17.0.0] C:\Users\Tania\.gradle\caches\transforms-2\files-2.1\1f3a52ef306866287cb16fda053ada9f\jetified-play-services-maps-17.0.0\AndroidManifest.xml:27:9-41
+	android:required
+		ADDED from [com.google.android.gms:play-services-maps:17.0.0] C:\Users\Tania\.gradle\caches\transforms-2\files-2.1\1f3a52ef306866287cb16fda053ada9f\jetified-play-services-maps-17.0.0\AndroidManifest.xml:28:9-32
+uses-library#org.apache.http.legacy
+ADDED from [com.google.android.gms:play-services-maps:17.0.0] C:\Users\Tania\.gradle\caches\transforms-2\files-2.1\1f3a52ef306866287cb16fda053ada9f\jetified-play-services-maps-17.0.0\AndroidManifest.xml:33:9-35:40
+	android:required
+		ADDED from [com.google.android.gms:play-services-maps:17.0.0] C:\Users\Tania\.gradle\caches\transforms-2\files-2.1\1f3a52ef306866287cb16fda053ada9f\jetified-play-services-maps-17.0.0\AndroidManifest.xml:35:13-37
+	android:name
+		ADDED from [com.google.android.gms:play-services-maps:17.0.0] C:\Users\Tania\.gradle\caches\transforms-2\files-2.1\1f3a52ef306866287cb16fda053ada9f\jetified-play-services-maps-17.0.0\AndroidManifest.xml:34:13-50
+service#androidx.room.MultiInstanceInvalidationService
+ADDED from [androidx.room:room-runtime:2.2.6] C:\Users\Tania\.gradle\caches\transforms-2\files-2.1\b8ad9e277617d292347ec3f5745f1605\room-runtime-2.2.6\AndroidManifest.xml:25:9-28:40
+	android:exported
+		ADDED from [androidx.room:room-runtime:2.2.6] C:\Users\Tania\.gradle\caches\transforms-2\files-2.1\b8ad9e277617d292347ec3f5745f1605\room-runtime-2.2.6\AndroidManifest.xml:28:13-37
+	android:directBootAware
+		ADDED from [androidx.room:room-runtime:2.2.6] C:\Users\Tania\.gradle\caches\transforms-2\files-2.1\b8ad9e277617d292347ec3f5745f1605\room-runtime-2.2.6\AndroidManifest.xml:27:13-43
+	android:name
+		ADDED from [androidx.room:room-runtime:2.2.6] C:\Users\Tania\.gradle\caches\transforms-2\files-2.1\b8ad9e277617d292347ec3f5745f1605\room-runtime-2.2.6\AndroidManifest.xml:26:13-74
+meta-data#com.google.android.gms.version
+ADDED from [com.google.maps.android:android-maps-utils:0.4.4] C:\Users\Tania\.gradle\caches\transforms-2\files-2.1\4d9c849f4d7c0d431b29000d8db65d7c\jetified-android-maps-utils-0.4.4\AndroidManifest.xml:8:9-10:69
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] C:\Users\Tania\.gradle\caches\transforms-2\files-2.1\eaad86c17299528450dae5632c8f2a49\jetified-play-services-basement-17.0.0\AndroidManifest.xml:23:9-25:69
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] C:\Users\Tania\.gradle\caches\transforms-2\files-2.1\eaad86c17299528450dae5632c8f2a49\jetified-play-services-basement-17.0.0\AndroidManifest.xml:23:9-25:69
+	android:value
+		ADDED from [com.google.maps.android:android-maps-utils:0.4.4] C:\Users\Tania\.gradle\caches\transforms-2\files-2.1\4d9c849f4d7c0d431b29000d8db65d7c\jetified-android-maps-utils-0.4.4\AndroidManifest.xml:10:13-66
+	android:name
+		ADDED from [com.google.maps.android:android-maps-utils:0.4.4] C:\Users\Tania\.gradle\caches\transforms-2\files-2.1\4d9c849f4d7c0d431b29000d8db65d7c\jetified-android-maps-utils-0.4.4\AndroidManifest.xml:9:13-58
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:17.0.0] C:\Users\Tania\.gradle\caches\transforms-2\files-2.1\ca164ee28e446fab7dcc39d549ec249c\jetified-play-services-base-17.0.0\AndroidManifest.xml:23:9-26:75
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:17.0.0] C:\Users\Tania\.gradle\caches\transforms-2\files-2.1\ca164ee28e446fab7dcc39d549ec249c\jetified-play-services-base-17.0.0\AndroidManifest.xml:25:13-37
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:17.0.0] C:\Users\Tania\.gradle\caches\transforms-2\files-2.1\ca164ee28e446fab7dcc39d549ec249c\jetified-play-services-base-17.0.0\AndroidManifest.xml:26:13-72
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:17.0.0] C:\Users\Tania\.gradle\caches\transforms-2\files-2.1\ca164ee28e446fab7dcc39d549ec249c\jetified-play-services-base-17.0.0\AndroidManifest.xml:24:13-79
+provider#androidx.lifecycle.ProcessLifecycleOwnerInitializer
+ADDED from [androidx.lifecycle:lifecycle-process:2.2.0] C:\Users\Tania\.gradle\caches\transforms-2\files-2.1\3a8027526ad8c4c8ab81ff9bc549ce37\jetified-lifecycle-process-2.2.0\AndroidManifest.xml:25:9-29:43
+	android:authorities
+		ADDED from [androidx.lifecycle:lifecycle-process:2.2.0] C:\Users\Tania\.gradle\caches\transforms-2\files-2.1\3a8027526ad8c4c8ab81ff9bc549ce37\jetified-lifecycle-process-2.2.0\AndroidManifest.xml:27:13-69
+	android:multiprocess
+		ADDED from [androidx.lifecycle:lifecycle-process:2.2.0] C:\Users\Tania\.gradle\caches\transforms-2\files-2.1\3a8027526ad8c4c8ab81ff9bc549ce37\jetified-lifecycle-process-2.2.0\AndroidManifest.xml:29:13-40
+	android:exported
+		ADDED from [androidx.lifecycle:lifecycle-process:2.2.0] C:\Users\Tania\.gradle\caches\transforms-2\files-2.1\3a8027526ad8c4c8ab81ff9bc549ce37\jetified-lifecycle-process-2.2.0\AndroidManifest.xml:28:13-37
+	android:name
+		ADDED from [androidx.lifecycle:lifecycle-process:2.2.0] C:\Users\Tania\.gradle\caches\transforms-2\files-2.1\3a8027526ad8c4c8ab81ff9bc549ce37\jetified-lifecycle-process-2.2.0\AndroidManifest.xml:26:13-79
